@@ -1,6 +1,6 @@
 
 public class Boolean {
-    public static void main(String[] args) {
+    public static void main(StringManipulation[] args) {
 
         // Boolean variables representing user states
         boolean isLoggedIn = true;

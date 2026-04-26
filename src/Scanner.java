@@ -1,5 +1,5 @@
 public class Scanner {
-  public static void main(String [] args){
+  public static void main(StringManipulation[] args){
 
     System.out.println(" Write your age: ");
     java.util.Scanner scan= new java.util.Scanner(System.in);
